@@ -11,7 +11,7 @@ public class C1 {
 
 	public C1() {
 		super();
-		// TODO Auto-generated constructor stub
+		System.out.println("OK");
 	}
 
 }
